@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-11-06T17:48:18.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="Ane_rTyHq1zGF4ti4oV6" type="github"><diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">7Zzfs5o4FMf/Gl87EH76qFa3nWlnd9ad2ecIEdMbCBOC99q/foMGFGI77tUmYPFFOQQSzvn45eQQnTiL9O0PBvPdVxojMgFW/DZxPk4AAKEHxFtlOZwstjO1TpaE4VjazoY1/o6ksW5W4hgVrYacUsJx3jZGNMtQxFs2yBh9bTfbUtLuNYcJUgzrCBLV+i+O+U5abX963vEJ4WQnuw5BcNqxgdFLwmiZyf4mwNkeX6fdKazPJS+02MGYvl6YnOXEWTBK+elT+rZApHJu7bbTcasf7G3GzVDGbzogcL3TMXtISlQP+jg0fqjdgWLhHbmZ0Uy8zY/XiKqzWGLrW5nmnQY7nhKxZYuPzUVWTQncIDJv3LSghLLzUQWHjM+qCHZsK0yIPAPK4rpFRGBR4OhklE2qHr8hzg8SK1hyKkyU8R1NaAbJF0rzemSc0RdUj0EEC6y8ebBo9tTBd4RlSzO+gikmFdSfENkjjiMod8i+bF9uX57ScV3vY3XKHEY4S4TVE1snJ1eebYWuoCWLUBMcyZvwQIJqzAPfVcNsN/CIbyWiKeLsIJowRCDH+3YfUH47kqbdmRDxQULyQ2D8EZiBARNc0QWNwAQjMAMDxreMAhOOwAwMGM8xCsxUAWYW7xHjuKiursvOGZTK4a87zNFaOKLa+yoS2jtIuQxdy9iKmoDiWnzfG83V8SXskOAkqxAUIUCsPlBet62EG7JInjUQWzliWLgesXXTCDRMVL5Eb62I3RBpeYA7lSmmnA04ofVBWl4vkmtPas7uIq8OrEfgUZ/53Xpi69aTd4vFMvR8F7xfLNyf4NWmp8tWh+qNhRzk3yoqtXx0RMU3KSqePVIzSGo8o9SAkZpBUmN0Tl2P6YKaZboRieSh58kLqhm4O+JK8vJzBHQlLyIv6SQv3q3Ji/+Y5MVV0PhnhyjDqOg5G1srRKGtmQ1LIxt+Gw3PcjWjoZZuZ3mOIBnBMAuG7RrWDLVE+wUeaMlHMHqlGMDTrRhjKfaCFtufTo8Y/vIE9qbEtA5xpxRrtLLmjaXYwQEDjAKjlmJHYHoOjNGng75anP2TJTDD30VPNOt5xlIFOH5IOHs6/+0W773g5uL9Y1IWXy3DLoQvquH3Gw3f3WyQjtKItuS1g4Lv6UZBra3Oy7hSspEEo0/0AtvXTIJaL52JW/GhwH0vij0dC8C4KqgF0q+QvQh39v7R/8oKA8vTAENfsgdg6YbjSokUp0IkfCL6mW+Y+JTw5mJ7S8rWg1sxF38e2egmE7atm4xxGes1JerJRFVqemeiavTJvq/WTj9nwl1lKgbT97Tj6fRDmZfqlo+xMDo4+QiMyodaGF2jpNKOIdS5nk4/utMW7flHcO+i1FFAtAvI9GbKfoGABNcKoWlaZsIbA1AQG0C4eea5bqAsc/c+uNOLl1Z1UUuly/0A8lTfjvyq76ddARIGnbwVaF4CEqil0/933xnOAmUbzGZzLTeVhy5QroW+8xtOYPTmc6XIimIMRzkxvNLQstp64jq69eTe/w8Y9cSMnhj9wUOgVl/XOc0Kyvr/1Ob3ExVHe5Jy7zrVUVTMiIrRX2wGak32r79HMenXhAe4urXk3hWpo5aY0ZJQm5aIzfNfbh33XfyxmbP8Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-06T18:18:54.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="0NJXXPeX87u1nkcEMAHn" version="13.9.2" type="github">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel dx="946" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1784" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1782" target="vHOTytZj0k8Ud9tPu9kU-1783">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1790" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1782" target="vHOTytZj0k8Ud9tPu9kU-1789">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1798" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1782" target="vHOTytZj0k8Ud9tPu9kU-1797">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1782" value="Глава 15. Мы в ответе за собственные знания" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="525" y="300" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1786" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1783" target="vHOTytZj0k8Ud9tPu9kU-1785">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1788" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1783" target="vHOTytZj0k8Ud9tPu9kU-1787">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1783" value="Ценность самообучения" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;shadow=0;sketch=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1785" value="Упорство — важнее ума" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="256.25" y="414" width="112.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1787" value="Утветственность за собственные знания" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="255" y="210" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1789" value="Важно обрести мудрых наставников" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1795" value="Взглянуть на материал под другим углом" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1797" value="Понять свои ошибки и не повторять их в будущем" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#333333;strokeColor=#666666;strokeWidth=4;fillColor=#f5f5f5;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="556.25" y="454" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1803" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;shadow=0;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1782" target="vHOTytZj0k8Ud9tPu9kU-1795">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="350" as="sourcePoint" />
+            <mxPoint x="780" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1804" value="" style="endArrow=classic;html=1;shadow=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vHOTytZj0k8Ud9tPu9kU-1782" target="vHOTytZj0k8Ud9tPu9kU-1805">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="430" as="sourcePoint" />
+            <mxPoint x="830" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHOTytZj0k8Ud9tPu9kU-1805" value="Бесстрастно относится к критике" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;sketch=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="780" y="454" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
